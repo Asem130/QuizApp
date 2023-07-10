@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 <p align="center"><img src="https://github.com/Asem130/QuizApp/assets/97855100/13b6df7d-a779-4d44-b26a-79ba41fd60f6" width="500" >
   <img src="https://github.com/Asem130/QuizApp/assets/97855100/13b6df7d-a779-4d44-b26a-79ba41fd60f6" width="500" >
 </p>
+<p align="center"><img src="https://github.com/Asem130/QuizApp/assets/97855100/13b6df7d-a779-4d44-b26a-79ba41fd60f6" width="500" >
+  <img src="https://github.com/Asem130/QuizApp/assets/97855100/13b6df7d-a779-4d44-b26a-79ba41fd60f6" width="500" >
+</p>
